@@ -1,0 +1,6 @@
+john, Pa@$w0rd
+kevin, p@SS123
+gloria, sunSh1ne
+zeke, NoPassw0rd
+victoria, V1cT0rY9
+admin, Admin
